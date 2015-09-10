@@ -2,6 +2,7 @@
 
 ### Vulnerability Indexes
 - [CVE Details](http://www.cvedetails.com/)
+- [Exploit DV](https://www.exploit-db.com/)
 
 ### VM Vulnerability challenges
 - [VulnHub](https://www.vulnhub.com/)
